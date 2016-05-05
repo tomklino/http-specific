@@ -1,0 +1,15 @@
+{
+    "name": "http-specific",
+    "version": "0.9.0",
+    "description": "An HTTP server that serves a given directory is if it was the root of the server",
+    "main": "index.js",
+    "keywords": [
+        "http"
+    ],
+    "author": "Tom Klinovsky",
+    "license": "CC-BY-SA-4.0",
+    "dependencies": {
+        "mime": "~1.3.4"
+    }
+      
+}
